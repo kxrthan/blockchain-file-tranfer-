@@ -58,6 +58,10 @@ Here is the video in Hindi - [Decentralize Google Drive](https://youtu.be/fghqq3
    # Start React Application
    npm start
    ```
+7. To run frontend application
+   ```bash
+   cd front
+   npm run dev
    
 ### Configuration
 
